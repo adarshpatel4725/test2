@@ -1,3 +1,3 @@
-echo " >> test2.sh << "
+echo " >> testing.sh << "
 read USER
 echo "USER name is : " $USER 
